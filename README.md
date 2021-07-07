@@ -19,3 +19,12 @@
 该简历使用 Latex 排版, 简历模板来自 [Latex Templates: Awesome Resume/CV and Cover Letter](https://www.latextemplates.com/template/awesome-resume-cv), 作者是 [Claud D. Park](https://github.com/posquit0/Awesome-CV). 原始简历为英文版, 增加了 [ctex包](https://ctan.org/pkg/ctex) 以支持中文字符输入, 需要使用 [xelatex](https://fr.overleaf.com/learn/latex/XeLaTeX) 或 [lualatex](https://ctan.org/pkg/lualatex-doc) 编译.
 
 需要编译完成的 PDF 版本, 请移步 [2021-03月简历](https://github.com/loveychen/resume-latex/releases/tag/20210302).
+
+
+# 链接
+
+我维护了一个小的个人技术博客, 地址 [https://loveychen.github.io/](https://loveychen.github.io/), 内容不定期更新, 主要记录一下工作和学习过程中的笔记. 该博客使用了 [hexo](https://hexo.io/), 当前主题使用了 [kaze](https://github.com/theme-kaze/hexo-theme-kaze), 但是我对该主题做了微小的改动, 改动后的代码放在仓库 [loveychen/hexo-theme-kaze](https://github.com/loveychen/hexo-theme-kaze).
+
+我也维护了微信公众号 "神雕大虾", 公众号最初也是希望做一些技术分享, 后来限于公众号的各种限制(比如格式/外部链接等等), 当前主要用于各种杂七杂八的分享(如生活感悟, 随笔, 札记等), 偶尔也分享一些技术文章.
+
+当前还维护了一个 Mendeley Private Group, 主要是拉了一些喜欢阅读和分享论文的朋友一起分享论文和知识, 当前还是免费版本, 空间和成员数量都受限(还有几个位置可以拉人进来哦), 后面如果规模变大, 可以变更为订阅版本.
